@@ -1,0 +1,31 @@
+body
+{	text-align: center;
+	background-color: gray; 
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+}
+
+h1
+{	text-align: center;
+	font-size: 48px;
+	color: pink !important;
+}
+
+/* Nieodwiedzony link */
+a:link
+{	text-align: center;
+	color: yellow;
+}
+
+/* Odwiedzony link */
+a:visited
+{	text-align: center;
+	color:yellow;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{	text-align: center;
+	color: red;
+}
